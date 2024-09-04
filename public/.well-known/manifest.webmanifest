@@ -1,8 +1,8 @@
 {
   "id": "/",
   "short_name": "IWA KS",
-  "name": "Kitchen Sink IWA",
-  "version": "0.0.0",
+  "name": "vishnu kitchen sink IWA v7",
+  "version": "0.0.7",
   "update_manifest_url": "https://github.com/chromeos/iwa-sink/releases/latest/download/update.json",
   "icons": [
     {
