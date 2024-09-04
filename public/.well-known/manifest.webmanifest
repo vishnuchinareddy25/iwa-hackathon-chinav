@@ -1,8 +1,8 @@
 {
   "id": "/",
   "short_name": "IWA KS",
-  "name": "vishnu kitchen sink IWA v10",
-  "version": "0.0.10",
+  "name": "vishnu kitchen sink IWA v11",
+  "version": "0.0.11",
   "update_manifest_url": "https://github.com/vishnuchinareddy25/iwa-hackathon-chinav/raw/main/update_manifest_url.json",
   "icons": [
     {

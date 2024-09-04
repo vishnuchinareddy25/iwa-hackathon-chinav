@@ -1,7 +1,7 @@
 {
     "versions": [
       {
-        "version": "0.0.10",
+        "version": "0.0.11",
         "src": "https://github.com/vishnuchinareddy25/iwa-hackathon-chinav/raw/main/iwa-sink.swbn"
       }
     ]
