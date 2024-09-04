@@ -1,0 +1,9 @@
+{
+    "versions": [
+      {
+        "version": "5.2.17",
+        "src": "./dist/iwa-sink.swbn"
+      }
+    ]
+  }
+  
